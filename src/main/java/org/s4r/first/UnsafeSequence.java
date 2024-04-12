@@ -1,4 +1,4 @@
-package org.s4r.unsafe;
+package org.s4r.first;
 
 
 public class UnsafeSequence {
